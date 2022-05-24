@@ -1,0 +1,10 @@
+Equipo de Desarrollo:
+   Equipo -----> G6
+   Integrante 1:  Victor   - Portada, premio.
+   Integrante 2:  Salvador - trampas, game over.
+   Integrante 3:  Carlos   - Caracteres, mapa.
+   Integrante 4:  Bryan    - colores.
+
+
+
+    

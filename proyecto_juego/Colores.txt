@@ -1,0 +1,18 @@
+primer caracter = color de fondo
+Segundo caracter = color de letra
+
+    0 = negro
+    1 = azul
+    2 = verde
+    3 = aguamarina
+    4 = rojo
+    5 = purpura
+    6 = amarillo
+    7 = blanco
+    8 = Azul Claro
+    A = Verde Claro
+    B = Aguamarina Claro
+    C = Rojo claro
+    D = purpura claro
+    E = Amarillo Claro
+    F = Blanco Brillante

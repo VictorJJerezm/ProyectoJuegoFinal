@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\objetos\proyecto\robot\main.cpp
+	<iostream>
+
+1647041769 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\objetos\proyecto\robot\src\player.cpp
+	"player.h"
+
+1647041769 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\objetos\proyecto\robot\include\player.h
+
+1648218813 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\main.cpp
+	<iostream>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+
+1648218813 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\include\player.h
+
+1647105197 D
+
+1648218813 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+
+1647127950 ot_construyendo_paredes
+	"player.h"
+	<iostream>
+	"gamemap.h"
+	<iostream>
+	<fstream>
+
+1648181161 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1648130225 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\include\mapcell.h
+
+1648176707 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\include\gamemap.h
+	"mapcell.h"
+
+1648218813 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\src\gamemap.cpp
+	"gamemap.h"
+	<iostream>
+	<fstream>
+
+1648221315 source:c:\users\macho\programacion\prograuno\proyecto_juego\main.cpp
+	<iostream>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+
+1648221315 c:\users\macho\programacion\prograuno\proyecto_juego\include\player.h
+
+1648221315 c:\users\macho\programacion\prograuno\proyecto_juego\include\mapcell.h
+
+1653061314 c:\users\macho\programacion\prograuno\proyecto_juego\include\gamemap.h
+	"mapcell.h"
+
+1653061204 source:c:\users\macho\programacion\prograuno\proyecto_juego\src\gamemap.cpp
+	"gamemap.h"
+	<iostream>
+	<fstream>
+
+1648221315 source:c:\users\macho\programacion\prograuno\proyecto_juego\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1648221315 source:c:\users\macho\programacion\prograuno\proyecto_juego\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+
+1653350752 source:c:\users\vjere\proyectos\partecarlos\pruebas\proyecto_juego\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+	"windows.h"
+
+1653339692 c:\users\vjere\proyectos\partecarlos\pruebas\proyecto_juego\include\player.h
+
+1653196621 c:\users\vjere\proyectos\partecarlos\pruebas\proyecto_juego\include\mapcell.h
+
+1653344420 c:\users\vjere\proyectos\partecarlos\pruebas\proyecto_juego\include\gamemap.h
+	"mapcell.h"
+
+1653353565 source:c:\users\vjere\proyectos\partecarlos\pruebas\proyecto_juego\src\gamemap.cpp
+	"gamemap.h"
+	"player.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1653199259 source:c:\users\vjere\proyectos\partecarlos\pruebas\proyecto_juego\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1653345444 source:c:\users\vjere\proyectos\partecarlos\pruebas\proyecto_juego\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+
+1653350752 source:c:\users\vjere\proyectos\proyectojuego\proyecto_juego\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+	"windows.h"
+
+1653339692 c:\users\vjere\proyectos\proyectojuego\proyecto_juego\include\player.h
+
+1653196621 c:\users\vjere\proyectos\proyectojuego\proyecto_juego\include\mapcell.h
+
+1653344420 c:\users\vjere\proyectos\proyectojuego\proyecto_juego\include\gamemap.h
+	"mapcell.h"
+
+1653362103 source:c:\users\vjere\proyectos\proyectojuego\proyecto_juego\src\gamemap.cpp
+	"gamemap.h"
+	"player.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1653199259 source:c:\users\vjere\proyectos\proyectojuego\proyecto_juego\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1653345444 source:c:\users\vjere\proyectos\proyectojuego\proyecto_juego\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+
